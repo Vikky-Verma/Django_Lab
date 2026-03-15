@@ -1,0 +1,3 @@
+5. Create a blog application with posts, categories and comments
+6. Add user authorization (signin, login) to the blog application
+7. Create a djanog project with multiple pages (Home,About, Contact) inherite a common layout from base template to  implement template inheritance and demonstarte the use of static files(css, js, images)
